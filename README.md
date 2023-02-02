@@ -5,7 +5,7 @@ Week 5 challenge for Daily Scheduler
 
 ## Description
 
-C
+This Working Day scheduler can help the staff to keep the schedule and refer to it whenever required.
 
 ## User Story
 
@@ -39,15 +39,15 @@ N/A
 
 ## Usage
 
-By using this webpage, you can test your knowlege about the related questions and see the scores at the end. Enjoy the quiz.
+By using this webpage, you can keep your daily scheduler from 9 am - 5 pm. Enjoy it.
 
 ## screenshot of the page
 
 attached. 
-![Daily Scheduler]() "Scheduler")
+![Daily Scheduler](./Assets/05-third-party-apis-homework-demo.gif) "Scheduler for working days")
 
 ## URL of Github Repository
-https://najiba-haidari.github.io/week4-challenge-quiz/ 
+
 
 
 ## Credits

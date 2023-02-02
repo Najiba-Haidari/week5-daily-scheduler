@@ -47,7 +47,7 @@ attached.
 ![Daily Scheduler](./Assets/05-third-party-apis-homework-demo.gif) "Scheduler for working days")
 
 ## URL of Github Repository
-
+https://najiba-haidari.github.io/week5-daily-scheduler/
 
 
 ## Credits
